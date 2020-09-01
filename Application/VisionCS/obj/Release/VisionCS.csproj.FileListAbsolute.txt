@@ -1,0 +1,30 @@
+C:\Users\sech0\Desktop\실무 프로그래밍\09장\Application\Exe\VisionCS.exe.config
+C:\Users\sech0\Desktop\실무 프로그래밍\09장\Application\Exe\VisionCS.exe
+C:\Users\sech0\Desktop\실무 프로그래밍\09장\Application\Exe\VisionCS.pdb
+C:\Users\sech0\Desktop\실무 프로그래밍\09장\Application\VisionCS\obj\Release\VisionCS.csprojAssemblyReference.cache
+C:\Users\sech0\Desktop\실무 프로그래밍\09장\Application\VisionCS\obj\Release\VisionCS.Form1.resources
+C:\Users\sech0\Desktop\실무 프로그래밍\09장\Application\VisionCS\obj\Release\VisionCS.Properties.Resources.resources
+C:\Users\sech0\Desktop\실무 프로그래밍\09장\Application\VisionCS\obj\Release\VisionCS.csproj.GenerateResource.cache
+C:\Users\sech0\Desktop\실무 프로그래밍\09장\Application\VisionCS\obj\Release\VisionCS.csproj.CoreCompileInputs.cache
+C:\Users\sech0\Desktop\실무 프로그래밍\09장\Application\VisionCS\obj\Release\VisionCS.exe
+C:\Users\sech0\Desktop\실무 프로그래밍\09장\Application\VisionCS\obj\Release\VisionCS.pdb
+C:\Users\sech0\Desktop\실무 프로그래밍\10장\Application\Exe\VisionCS.exe.config
+C:\Users\sech0\Desktop\실무 프로그래밍\10장\Application\Exe\VisionCS.exe
+C:\Users\sech0\Desktop\실무 프로그래밍\10장\Application\Exe\VisionCS.pdb
+C:\Users\sech0\Desktop\실무 프로그래밍\10장\Application\VisionCS\obj\Release\VisionCS.csprojAssemblyReference.cache
+C:\Users\sech0\Desktop\실무 프로그래밍\10장\Application\VisionCS\obj\Release\VisionCS.Form1.resources
+C:\Users\sech0\Desktop\실무 프로그래밍\10장\Application\VisionCS\obj\Release\VisionCS.Properties.Resources.resources
+C:\Users\sech0\Desktop\실무 프로그래밍\10장\Application\VisionCS\obj\Release\VisionCS.csproj.GenerateResource.cache
+C:\Users\sech0\Desktop\실무 프로그래밍\10장\Application\VisionCS\obj\Release\VisionCS.csproj.CoreCompileInputs.cache
+C:\Users\sech0\Desktop\실무 프로그래밍\10장\Application\VisionCS\obj\Release\VisionCS.exe
+C:\Users\sech0\Desktop\실무 프로그래밍\10장\Application\VisionCS\obj\Release\VisionCS.pdb
+C:\Users\gamef\OneDrive\바탕 화면\실무 프로그래밍\10장\Application\Exe\VisionCS.exe.config
+C:\Users\gamef\OneDrive\바탕 화면\실무 프로그래밍\10장\Application\Exe\VisionCS.exe
+C:\Users\gamef\OneDrive\바탕 화면\실무 프로그래밍\10장\Application\Exe\VisionCS.pdb
+C:\Users\gamef\OneDrive\바탕 화면\실무 프로그래밍\10장\Application\VisionCS\obj\Release\VisionCS.csprojAssemblyReference.cache
+C:\Users\gamef\OneDrive\바탕 화면\실무 프로그래밍\10장\Application\VisionCS\obj\Release\VisionCS.Form1.resources
+C:\Users\gamef\OneDrive\바탕 화면\실무 프로그래밍\10장\Application\VisionCS\obj\Release\VisionCS.Properties.Resources.resources
+C:\Users\gamef\OneDrive\바탕 화면\실무 프로그래밍\10장\Application\VisionCS\obj\Release\VisionCS.csproj.GenerateResource.cache
+C:\Users\gamef\OneDrive\바탕 화면\실무 프로그래밍\10장\Application\VisionCS\obj\Release\VisionCS.exe
+C:\Users\gamef\OneDrive\바탕 화면\실무 프로그래밍\10장\Application\VisionCS\obj\Release\VisionCS.pdb
+C:\Users\gamef\OneDrive\바탕 화면\실무 프로그래밍\10장\Application\VisionCS\obj\Release\VisionCS.csproj.CoreCompileInputs.cache
